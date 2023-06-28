@@ -203,7 +203,7 @@ export default class ShoesList extends Component {
                   {/* Modal body */}
                   <div className="modal-body">
                     <form role="form">
-                      <div className="row ">
+                      <div className="row text-start">
                         <div className="col-4">
                           <img
                             className="w-100"
